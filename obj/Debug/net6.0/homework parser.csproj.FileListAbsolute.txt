@@ -1,0 +1,15 @@
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.csproj.AssemblyReference.cache
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.AssemblyInfoInputs.cache
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.AssemblyInfo.cs
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.csproj.CoreCompileInputs.cache
+E:\project\my-project\homework parser\bin\Debug\net6.0\homework parser.exe
+E:\project\my-project\homework parser\bin\Debug\net6.0\homework parser.deps.json
+E:\project\my-project\homework parser\bin\Debug\net6.0\homework parser.runtimeconfig.json
+E:\project\my-project\homework parser\bin\Debug\net6.0\homework parser.dll
+E:\project\my-project\homework parser\bin\Debug\net6.0\homework parser.pdb
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.dll
+E:\project\my-project\homework parser\obj\Debug\net6.0\refint\homework parser.dll
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.pdb
+E:\project\my-project\homework parser\obj\Debug\net6.0\homework parser.genruntimeconfig.cache
+E:\project\my-project\homework parser\obj\Debug\net6.0\ref\homework parser.dll
